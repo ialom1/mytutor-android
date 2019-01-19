@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">284995692282-ch5g18t55sqdharufnikfkd0tvls6ebq.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://mytutor-6b008.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">284995692282</string>
+    <string name="google_api_key" translatable="false">AIzaSyDgdCu13ERSunSDzxaCeYCehr3mcRu8hM0</string>
+    <string name="google_app_id" translatable="false">1:284995692282:android:1ccc9c1a39b8d54d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDgdCu13ERSunSDzxaCeYCehr3mcRu8hM0</string>
+    <string name="google_storage_bucket" translatable="false">mytutor-6b008.appspot.com</string>
+    <string name="project_id" translatable="false">mytutor-6b008</string>
+</resources>
